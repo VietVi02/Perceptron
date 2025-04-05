@@ -1,0 +1,1 @@
+This program trains and compares a Perceptron and a Multilayer Perceptron (MLP) using the `optdigits` dataset. It tests different learning rates and shuffle settings to find the best accuracy for each model.
